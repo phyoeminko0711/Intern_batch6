@@ -1,0 +1,4 @@
+git fetch && git pull origin DEV
+git add .
+git commit -m 'Description'
+
